@@ -1,7 +1,6 @@
 # JavaScript Online Calculator
 Easy Challenge hinted by a friend, I made this Online Calculator using HTML, CSS and Javascript under 5 minutes.
 
-
 I wrote it when i was 13 yr old.
 
 Yeah I know,i'm bad at Web Design ;)
