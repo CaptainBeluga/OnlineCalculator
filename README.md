@@ -1,4 +1,4 @@
-# Pythagorean Theorem Solver
+# JavaScript Online Calculator
 Easy Challenge, I made this Online Calculator using HTML, CSS and Javascript under 5 minutes.
 
 
