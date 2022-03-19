@@ -7,6 +7,8 @@ I wrote it when i was 13 yr old.
 Yeah I know,i'm bad at Web Design ;)
 
 # Usage
-I wrote 4 functions foreach operations, and I added to a specific parameter in HTML called onclick
+I wrote 4 functions foreach operations.
+
+After I added them to a specific parameter in HTML called onclick
 
 
