@@ -11,6 +11,6 @@ I wrote 4 functions foreach mathematical operations.
 
 I take the value of each input and I carry out the operation.
 
-After I added them to a specific parameter in HTML called onclick.
+After I added every function to a specific button which has a parameter called onclick (in HTML).
 
 
